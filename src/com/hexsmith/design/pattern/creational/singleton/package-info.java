@@ -13,7 +13,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
  */
 /**
- * @Description:
+ * @Description:单例模式
  * @author hexsmith
  * @date 2017年11月6日 下午5:05:26 
  * @version v1.0 

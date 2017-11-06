@@ -13,7 +13,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
  */
 /**
- * @Description:
+ * @Description:创建型模式：工厂方法模式、抽象工厂模式、单例模式、建造者模式、原型模式共五种
  * @author hexsmith
  * @date 2017年11月6日 下午5:05:26 
  * @version v1.0 

@@ -13,7 +13,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
  */
 /**
- * @Description:
+ * @Description:结构型模式：适配器模式、装饰器模式、代理模式、外观模式、桥接模式、组合模式、享元模式，共七种
  * @author hexsmith
  * @date 2017年11月6日 下午5:06:41 
  * @version v1.0 
